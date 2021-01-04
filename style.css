@@ -52,6 +52,9 @@ section{
     height: 80%;
     background-color: white;
 }
+.experience{
+    margin-left: 5%;
+}
 .experience-area{
     background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
